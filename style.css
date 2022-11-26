@@ -1,0 +1,10 @@
+.bg-tampak-depan {
+  background-image: url(/img/tampak-depan.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.bg-junior-suite {
+  background-image: url(/img/junior-suite.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
